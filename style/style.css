@@ -21,7 +21,7 @@ text-align: left;
 
 .home{
     align-items: center;
-    margin-left: 200px;
+    margin-left: 180px;
     flex-direction: row;
 justify-content: flex-start;
 align-items: center;
@@ -29,6 +29,101 @@ align-items: center;
 
 }
 .Contact{
-    margin: 0px 186px;
+    margin: 0px 240px;
     
+}
+.H{
+    color: rgb(254, 163, 1);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+
+}
+.A{
+    color: rgb(1, 172, 253);
+    font-family: Quicksand;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.F{
+    color: rgb(5, 212, 223);
+    font-family: Quicksand;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.D{
+    color: rgb(93, 88, 239);
+    font-family: Quicksand;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.ct{
+color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 300px;
+line-height: 30px;
+letter-spacing: 0%;
+border: none;
+width: 100px;
+height: 30px;
+border-radius: 12px;
+background: rgb(254, 163, 1);
+}
+.emp{
+    width: 640px;
+    height: 331px;
+    margin-left: 185px;
+}
+.hero{
+    width: 468.61px;
+height: 575px;
+margin: 0px 137px;
+}
+.Empowering{
+    font-family: Quicksand;
+font-size: 56px;
+font-weight: 700;
+line-height: 61px;
+letter-spacing: 0%;
+text-align: left;
+}
+.Empowering1{
+color: rgb(254, 163, 1);
+}
+.towards{
+color: 
+rgb(1, 172, 253);
+}
+.with{
+    color: rgb(17, 17, 17);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: left;
+}
+.Enroll{
+border-radius: 12px;
+background: rgb(17, 17, 17);
+color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
 }
