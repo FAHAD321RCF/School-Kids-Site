@@ -239,3 +239,268 @@ text-align: center;
     border-radius: 50%;
     background: rgb(254, 163, 1);
 }
+.menu{
+    display: none;
+}
+.stories{
+    background-image: url("../B11-A2-Kids-School-main/assets/bg.png");
+position: absolute;
+width: 1440px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 60px 0px 60px 0px;
+background:linear-gradient(0.00deg, rgba(254, 163, 1, 0.3),rgba(255, 255, 255, 0.3) 100%);
+
+
+}
+.find{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+position: relative;
+width: 290.69px;
+height: 301.61px;
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+gap: 10px;
+}
+.rish{
+position: relative;
+width: 290.69px;
+height: 301.61px;
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+.stories2{
+position: relative;
+width: 540px;
+height: 630px;
+border-radius: 16px;
+background: rgb(255, 255, 255);
+}
+.f1{
+position: absolute;
+width: 174px;
+height: 47px;
+left: 38px;
+top: 300px;
+border-radius: 45px;
+
+background: rgb(60, 216, 232);
+color: rgb(255, 255, 255);
+font-family: Raleway;
+font-size: 15px;
+font-weight: 500;
+display: flex;
+text-align: center;
+align-items: center;
+padding-left: 35px;
+}
+
+.f2{
+position: absolute;
+width: 174.51px;
+height: 38.35px;
+left: 38px;
+top: 140px;
+border-radius: 47.93px;
+background: rgb(149, 178, 38);
+display: flex;
+text-align: center;
+align-items: center;
+padding-left: 35px;
+color: rgb(255, 255, 255);
+font-family: Raleway;
+font-size: 15.34px;
+font-weight: 500;
+line-height: 28.76px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+.f3{
+    position: absolute;
+width: 174.51px;
+height: 38.35px;
+left: 38px;
+top: 140px;
+border-radius: 47.93px;
+background: rgb(93, 88, 240);
+display: flex;
+text-align: center;
+align-items: center;
+padding-left: 35px;
+color: rgb(255, 255, 255);
+font-family: Raleway;
+font-size: 15.34px;
+font-weight: 500;
+line-height: 28.76px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+.f4{
+    position: absolute;
+width: 174.51px;
+height: 38.35px;
+left: 38px;
+top: 140px;
+border-radius: 47.93px;
+background: rgb(149, 178, 38);
+display: flex;
+text-align: center;
+align-items: center;
+padding-left: 35px;
+color: rgb(255, 255, 255);
+font-family: Raleway;
+font-size: 15.34px;
+font-weight: 500;
+line-height: 28.76px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+.f5{
+    position: absolute;
+width: 174.51px;
+height: 38.35px;
+left: 38px;
+top: 140px;
+border-radius: 47.93px;
+background: rgb(149, 178, 38);
+display: flex;
+text-align: center;
+align-items: center;
+padding-left: 35px;
+color: rgb(255, 255, 255);
+font-family: Raleway;
+font-size: 15.34px;
+font-weight: 500;
+line-height: 28.76px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+.aura{
+position: absolute;
+display: flex;
+flex-direction: row;
+align-items: center;
+color: rgb(0, 0, 0);
+font-family: Quicksand;
+font-size: 15.34px;
+font-weight: 700;
+line-height: 28.76px;
+letter-spacing: 0%;
+text-align: left;
+padding-top: 30px;
+
+
+}
+.jr{
+    gap: 14px;
+    margin-right:210px;
+}
+.tod{
+    color: rgb(0, 0, 0);
+font-family: Quicksand;
+font-size: 24px;
+font-weight: 700;
+line-height: 38.35px;
+letter-spacing: 0%;
+text-align: left;
+padding-top: 30px;
+}
+.branding{
+    color: rgb(102, 102, 102);
+font-family: Raleway;
+font-size: 15.34px;
+font-weight: 500;
+line-height: 28.76px;
+letter-spacing: 0%;
+text-align: left;
+padding-top: 30px;
+}
+.our{
+    color: rgb(0, 0, 0);
+font-family: Quicksand;
+font-size: 38px;
+font-weight: 700;
+line-height: 57px;
+letter-spacing: 0%;
+text-align: center;
+margin-left: 50px;
+}
+
+.view{
+    width: 197px;
+height: 50px;
+    border-radius: 12px;
+background: rgb(17, 17, 17);
+color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 700;
+line-height: 30px;
+text-align: center;
+margin-top: 40px;
+
+}
+
+.footer{
+
+position: absolute;
+width: 1440px;
+height: 520px;
+left: 1px;
+top: 2340px;
+background: rgb(1, 172, 253);
+}
+@media screen and (max-width:570px) {
+
+    .nav{
+
+        
+border-bottom: 0.5px solid rgb(254, 163, 1);
+    }
+
+    .school2{
+        display: none;
+    }
+    .home{
+        display: none;
+    }
+.Contact{
+    display: none;
+}
+
+.kids{
+   margin-left: 0px;
+}
+.menu{
+    display: flex;
+    justify-content: flex-end;
+}
+.from{
+    flex-direction: column-reverse;
+    align-items: center;
+    margin: 0px 120px 0px 120px;
+}
+.imu{
+    display: none;
+}
+.nato{
+    flex-direction: column;
+    align-items: center;
+    margin-right: 1200px;
+}
+.curri{
+    margin-right: 1330px;
+}
+.fahad{
+    align-items: center;
+}
+}
