@@ -239,9 +239,7 @@ text-align: center;
     border-radius: 50%;
     background: rgb(254, 163, 1);
 }
-.menu{
-    display: none;
-}
+
 .stories{
     background-image: url("../B11-A2-Kids-School-main/assets/bg.png");
 position: absolute;
@@ -456,7 +454,7 @@ position: absolute;
 width: 1440px;
 height: 520px;
 left: 1px;
-top: 2340px;
+top: 2300px;
 background: rgb(1, 172, 253);
 }
 .edu{
@@ -518,11 +516,19 @@ text-align: left;
 .uu{
     margin-left: 80px;
 }
+
+.menu{
+    display: none;
+}
+
+@media (max-width: 768px){
+
+    
+}
 @media screen and (max-width:570px) {
-
-    .nav{
-
-        
+  
+    
+    .nav{ 
 border-bottom: 0.5px solid rgb(254, 163, 1);
     }
 
@@ -561,5 +567,44 @@ border-bottom: 0.5px solid rgb(254, 163, 1);
 }
 .fahad{
     align-items: center;
+}
+
+.our{
+    margin-right: 1330px;
+}
+.stories2{
+    display: none;
+}
+.find{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-right: 1200px;
+}
+.footer{
+    top: 3800px;
+    margin-right: 700px;
+}
+
+.uu{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+}
+.edu{
+    padding-right: 1000px;
+}
+.touch{
+    padding-left: 0px;
+}
+.in{
+color: blue;
+}
+.fc1{
+color: chartreuse;
+}
+.fc2{
+color: cornflowerblue;
+}
+.view{
+ padding-left: 0px;
 }
 }
