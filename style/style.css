@@ -459,6 +459,65 @@ left: 1px;
 top: 2340px;
 background: rgb(1, 172, 253);
 }
+.edu{
+    margin: 100px 130px;
+}
+.rela{
+    color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: left;
+width: 400px;
+height: 100px;
+}
+.ki{
+    color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 2rem;
+font-weight: 500;
+line-height:25px;
+text-align: left;
+}
+.homee{
+
+    margin-top: 100px;
+}
+.fc1{
+    color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 24px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+}
+.fc2{
+    color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 500;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: left;
+}
+.in{
+    color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 26px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.touch{
+    margin: 100px 0px 0px 150px;
+}
+.uu{
+    margin-left: 80px;
+}
 @media screen and (max-width:570px) {
 
     .nav{
