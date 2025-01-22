@@ -443,8 +443,10 @@ font-family: Quicksand;
 font-size: 20px;
 font-weight: 700;
 line-height: 30px;
+display: flex;
+justify-content: center;
 text-align: center;
-margin-top: 40px;
+margin: 40px 0px 0px 660px;
 
 }
 
@@ -454,7 +456,7 @@ position: absolute;
 width: 1440px;
 height: 520px;
 left: 1px;
-top: 2300px;
+top: 2190px;
 background: rgb(1, 172, 253);
 }
 .edu{
@@ -570,7 +572,7 @@ border-bottom: 0.5px solid rgb(254, 163, 1);
 }
 
 .our{
-    margin-right: 1330px;
+    margin-right: 1165px;
 }
 .stories2{
     display: none;
@@ -590,10 +592,13 @@ border-bottom: 0.5px solid rgb(254, 163, 1);
     grid-template-columns: repeat(1,1fr);
 }
 .edu{
-    padding-right: 1000px;
+    margin-left: 0px;
 }
 .touch{
-    padding-left: 0px;
+    margin-left: 0px;
+}
+.rela{
+    margin-left: 0px;
 }
 .in{
 color: blue;
@@ -605,6 +610,9 @@ color: chartreuse;
 color: cornflowerblue;
 }
 .view{
- padding-left: 0px;
+margin-left: 80px;
+}
+.Enroll{
+    margin-left: 120px;
 }
 }
